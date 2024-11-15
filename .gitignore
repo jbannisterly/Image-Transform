@@ -1,2 +1,9 @@
 *.bmp
 ImageProcessing/bin/Debug/*
+!ImageProcessing/bin/Debug/Image*
+ImageProcessing/bin/Debug/components/*
+ImageProcessing/bin/Debug/outputs/*
+ImageProcessing/bin/Debug/targets/*
+!ImageProcessing/bin/Debug/components
+!ImageProcessing/bin/Debug/outputs
+!ImageProcessing/bin/Debug/targets
